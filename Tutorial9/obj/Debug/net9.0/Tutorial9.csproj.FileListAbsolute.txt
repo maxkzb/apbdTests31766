@@ -79,3 +79,4 @@
 /Users/makskozub/Downloads/Tutorial9/Tutorial9/obj/Debug/net9.0/Tutorial9.pdb
 /Users/makskozub/Downloads/Tutorial9/Tutorial9/obj/Debug/net9.0/Tutorial9.genruntimeconfig.cache
 /Users/makskozub/Downloads/Tutorial9/Tutorial9/obj/Debug/net9.0/ref/Tutorial9.dll
+/Users/makskozub/Downloads/Tutorial9/Tutorial9/obj/Debug/net9.0/Tutorial9.sourcelink.json
